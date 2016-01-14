@@ -1,0 +1,25 @@
+img{
+	width:100%;
+}
+#infoPic{width:80%;
+	margin:3% 10% 3% 10%;
+}
+#unique{
+	width:80%;
+	margin:0 10% 2% 10%;
+}
+#hunger{
+	text-align: center;
+	font-family: "Open Sans Condensed";
+	font-size: 30px;
+	line-height: 120%;
+	color: pink;
+}
+#main{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h2{
+	margin:3% 0 3% 0;
+}
